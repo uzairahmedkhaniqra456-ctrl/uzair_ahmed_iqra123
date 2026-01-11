@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.virtualenv/
+
+# Vector store & cache
+vector_store/
+*.bin
+*.lock
+
+# Secrets
+open_ai_key
+APP_passwords
+
+# OS
+.DS_Store
+Thumbs.db

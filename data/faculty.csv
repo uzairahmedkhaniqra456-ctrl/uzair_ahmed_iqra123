@@ -1,0 +1,16 @@
+faculty_id,faculty_name,qualification,expertise,office_room,floor,subjects_taught,department
+F001,Dr. Ahmed Khan,PhD Computer Science,"Machine Learning, Deep Learning",Room 201,1st Floor,"AI201, ML301",Computer Science
+F002,Dr. Syed Ali,PhD Artificial Intelligence,"Artificial Intelligence, Expert Systems",Room 202,1st Floor,"DS101, DSA301",Computer Science
+F003,Prof. Imran Tariq,MS Computer Networks,"Computer Networks, Network Security",Room 203,1st Floor,"CN201, CRYPTO201",Computer Science
+F004,Dr. Sana Qureshi,PhD Software Engineering,"Software Engineering, SQA",Room 204,2nd Floor,"SE201, SQA301",Software Engineering
+F005,Dr. Usman Raza,PhD Data Science,"Data Science, Big Data",Room 205,2nd Floor,"STAT201, DS101",Mathematics
+F006,Prof. Ayesha Malik,MS Computer Science,"Database Systems, Information Systems",Room 206,2nd Floor,"DB101, ADVDB301",Computer Science
+F007,Dr. Farhan Siddiqui,PhD Machine Learning,"Machine Learning, NLP",Room 207,2nd Floor,"ML301, NLP401",Computer Science
+F008,Prof. Rabia Yousuf,MS Software Engineering,"Web Engineering, Mobile App Development",Room 208,2nd Floor,"WEB302, MAD301",Software Engineering
+F009,Dr. Kamran Shah,PhD Cyber Security,"Cyber Security, Cryptography",Room 209,3rd Floor,"CRYPTO201, DSD201",Computer Science
+F010,Dr. Maria Asif,PhD Information Systems,"Information Systems, Cloud Computing",Room 210,3rd Floor,"CLOUD401, IOT301",Computer Science
+F011,Prof. Bilal Sheikh,MS Software Project Management,"Software Project Management, Requirements Engineering",Room 211,3rd Floor,"SPM401, REQ301",Software Engineering
+F012,Dr. Hira Zafar,PhD Computer Vision,"Computer Vision, Image Processing",Room 212,3rd Floor,"CV401, DIP301",Computer Science
+F013,Dr. Sameer Abbasi,PhD Distributed Systems,"Distributed Systems, High Performance Computing",Room 301,3rd Floor,"DSD201, OS201",Computer Science
+F014,Prof. Zainab Noor,PhD Human-Computer Interaction,"HCI, UX Design",Room 302,3rd Floor,"HCI301, UML201",Software Engineering
+F015,Dr. Hamza Javed,PhD Cloud Computing,"Cloud Computing, Virtualization",Room 303,3rd Floor,"CA201, PF101",Computer Science

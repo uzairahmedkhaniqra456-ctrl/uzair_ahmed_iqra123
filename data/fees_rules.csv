@@ -1,0 +1,3 @@
+fee_id,degree,per_credit_hour,admission_fee,misc_charges,max_credit_limit,description
+FEE001,BSCS,7500,25000,15000,18,"Fee policy for BSCS students including credit fee, admission fee, and misc charges"
+FEE002,BSSE,7500,25000,15000,18,"Fee policy for BSSE students including credit fee, admission fee, and misc charges"

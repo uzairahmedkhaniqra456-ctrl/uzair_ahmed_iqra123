@@ -1,0 +1,10 @@
+1)classrooms 20 rows
+2)faculty    15 rows
+3)fees_rules 2  rows
+4)student_course_enrollment 730 rows
+5)students   200 rows
+6)subjects   30  rows
+7)timetable  30  rows
+
+
+Total_rows data: 1027

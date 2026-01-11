@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+faiss-cpu
+python-dotenv

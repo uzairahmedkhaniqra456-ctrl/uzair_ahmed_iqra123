@@ -1,0 +1,31 @@
+subject_code,subject_name,credit_hours,degree,department
+OOP101,Object Oriented Programming,3,BSCS/BSSE,Computer Science
+DS101,Data Structures,3,BSCS/BSSE,Computer Science
+DB101,Database Systems,3,BSCS/BSSE,Computer Science
+OS201,Operating Systems,3,BSCS/BSSE,Computer Science
+CN201,Computer Networks,3,BSCS/BSSE,Computer Science
+AI201,Artificial Intelligence,3,BSCS/BSSE,Computer Science
+ML301,Machine Learning,3,BSCS/BSSE,Computer Science
+SE201,Software Engineering,3,BSCS/BSSE,Software Engineering
+DLD101,Digital Logic Design,3,BSCS/BSSE,Software Engineering
+PF101,Programming Fundamentals,3,BSCS/BSSE,Computer Science
+CA201,Computer Architecture,3,BSCS/BSSE,Computer Science
+HCI301,Human Computer Interaction,3,BSCS/BSSE,Computer Science
+DSA301,Algorithms & Data Structures,3,BSCS,Computer Science
+NLP401,Natural Language Processing,3,BSCS,Computer Science
+CV401,Computer Vision,3,BSCS,Computer Science
+ADVDB301,Advanced Database Systems,3,BSCS,Computer Science
+IOT301,Internet of Things,3,BSCS,Computer Science
+CLOUD401,Cloud Computing,3,BSCS,Computer Science
+CRYPTO201,Information Security & Cryptography,3,BSCS,Computer Science
+MATH301,Discrete Mathematics,3,BSCS,Mathematics
+STAT201,Probability & Statistics,3,BSCS,Mathematics
+REQ301,Requirements Engineering,3,BSSE,Software Engineering
+SQA301,Software Quality Assurance,3,BSSE,Software Engineering
+ERP401,Enterprise Resource Planning,3,BSSE,Software Engineering
+MAD301,Mobile Application Development,3,BSSE,Software Engineering
+WEB302,Web Technologies,3,BSSE,Software Engineering
+SPM401,Software Project Management,3,BSSE,Software Engineering
+UML201,UML & System Design,3,BSSE,Software Engineering
+DIP301,Digital Image Processing,3,BSSE,Software Engineering
+DSD201,Distributed Systems,3,BSSE,Software Engineering

@@ -1,0 +1,21 @@
+room_id,room_name,floor,capacity,description
+R101,Lecture Hall 1,1st Floor,60,Main lecture hall for first-year classes
+R102,Lecture Hall 2,1st Floor,60,Large lecture hall used for core CS subjects
+R103,Programming Lab 1,1st Floor,40,Programming lab equipped with 40 computers
+R104,Digital Logic Lab,1st Floor,35,Lab for Digital Logic and hardware experiments
+R105,Seminar Room 1,1st Floor,30,Small seminar room for group discussions
+R201,Lecture Hall 3,2nd Floor,60,Lecture hall for 2nd-year BSCS & BSSE students
+R202,Software Engineering Lab,2nd Floor,40,Lab used for Software Engineering practicals
+R203,Networking Lab,2nd Floor,35,Networking lab with routers and switches
+R204,AI & ML Lab,2nd Floor,35,Advanced AI & ML research and teaching lab
+R205,Database Systems Lab,2nd Floor,35,Database lab equipped for DBMS practice
+R301,Lecture Hall 4,2nd Floor,60,Lecture hall used by 3rd-year classes
+R302,Computer Vision Lab,2nd Floor,40,Computer Vision and Image Processing lab
+R303,Cloud Computing Lab,2nd Floor,40,Cloud Computing & Virtualization lab
+R304,Final Year Project Lab,2nd Floor,40,Final Year Project development workspace
+R305,Seminar Room 2,2nd Floor,30,Seminar room for workshops & small gatherings
+R401,Lecture Hall 5,1st Floor,60,Lecture hall for final-year students
+R402,Research Lab 1,1st Floor,25,Research lab for postgraduate students
+R403,Research Lab 2,1st Floor,25,Research lab allocated for faculty projects
+R404,Project Discussion Room,1st Floor,20,Room for project presentations and reviews
+R405,Faculty Meeting Room,1st Floor,15,Faculty meeting and collaboration room
