@@ -19,3 +19,5 @@ APP_passwords
 # OS
 .DS_Store
 Thumbs.db
+
+open_ai_key.txt
